@@ -1,9 +1,9 @@
 # MultiFin
 Paper title: A Multi-Language Financial Resource for Evaluation of Multilingual Domain Adapted Models
 
-Link: __TBD__
+Link: https://aclanthology.org/2023.findings-eacl.66/
 
 Supplements for the paper in the form of benchmark data.
 
 ## Link to repository
-Link: __TBD__
+Link: https://www.dropbox.com/sh/v0fvtn5gnf4ij6f/AABPSV4NzHIRa8GwUfQ7kA0aa?dl=0
